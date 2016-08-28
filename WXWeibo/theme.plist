@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   theme.plist
+   WXWeibo
+
+   Created by 张凯 on 16/2/6.
+   Copyright (c) 2016年 www.iphonetrain.com 无限互联3G学院. All rights reserved.
+-->
+<plist version="1.0">
+    <dict>
+        <key>默认</key>
+        <string></string>
+        <key>blue</key>
+        <string>Skins/blue</string>
+        <key>pink</key>
+        <string>Skins/pink</string>
+    </dict>
+</plist>
